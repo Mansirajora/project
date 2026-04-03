@@ -1,1 +1,1 @@
-# project
+This repository contains data intelligence and business analytics projects built using MySQL and Power BI. It includes a Dynamic Pricing and Demand Intelligence System and an Energy Trade Analytics Dashboard, focused on deriving actionable insights for better decision-making.
